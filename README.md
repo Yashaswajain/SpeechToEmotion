@@ -36,9 +36,9 @@
 </ul>
 
 <h3>RESULTS:</h3>
-![WhatsApp Image 2021-04-10 at 23 22 23 (1)](https://user-images.githubusercontent.com/44711728/115106431-6e4c6f80-9f82-11eb-8650-c1bee22d6a06.jpeg)
-![WhatsApp Image 2021-04-10 at 23 22 23](https://user-images.githubusercontent.com/44711728/115106432-70aec980-9f82-11eb-814b-fd1bb7eed4cc.jpeg)
-![on](https://user-images.githubusercontent.com/44711728/115106435-74dae700-9f82-11eb-9d6e-59eedb1e43e3.PNG)
+![WhatsApp Image 2021-04-10 at 23 22 23 (1)](https://user-images.githubusercontent.com/44711728/115106431-6e4c6f80-9f82-11eb-8650-c1bee22d6a06.jpeg)<br>
+![WhatsApp Image 2021-04-10 at 23 22 23](https://user-images.githubusercontent.com/44711728/115106432-70aec980-9f82-11eb-814b-fd1bb7eed4cc.jpeg)<br>
+![on](https://user-images.githubusercontent.com/44711728/115106435-74dae700-9f82-11eb-9d6e-59eedb1e43e3.PNG)<br>
 ![text](https://user-images.githubusercontent.com/44711728/115106436-76a4aa80-9f82-11eb-80f3-fa7bc02f34c4.PNG)
 
 
